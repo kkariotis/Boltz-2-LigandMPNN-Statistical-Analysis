@@ -1,6 +1,6 @@
 # Quinone-Binding Cytochrome Design Analysis
 
-A comprehensive analysis pipeline for quinone-binding membrane cytochrome designs, parsing LigandMPNN `.fa` files with confidence scores and Boltz-2 output files. Generates publication-ready figures and statistical summaries for multiple design rounds.
+A comprehensive analysis pipeline for protein design, parsing LigandMPNN `.fa` files with confidence scores and Boltz-2 output files. Generates publication-ready figures and statistical summaries for multiple design rounds.
 
 ## Features
 
